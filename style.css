@@ -1,28 +1,44 @@
-          body {
+          a{
+            font-size:2vw;
+      font-size: 2vh;
+          }
+            body {
             background-color: black;
           }
           
           h1   {
+            font-size: 3vw;;
+            font-size: 5vh;
             color:rgb(0, 0, 0); 
             margin-left: 10px;
           }
+
+          h2{
+            color: #ffffff;
+            margin-left: 10px;
+            font-size: 2vw;
+            font-size: 4vh;
+          }
           
-          p    {
+          p{
             color:white ;
-            margin-left: 10px
+            margin-left: 0.7rem ;
+            font-size: 2vw;
+            font-size: 2.5vh;
+          }
+          li    {
+            color:white ;
+            
+            font-size: 2vw;
+            font-size: 2.2vh;
           }
     
-      a:link {
+      a {
       color: green;
       background-color: transparent;
       text-decoration: none;
-      }
       
-      a:visited {
-                  color: rgb(255, 255, 255);
-                  background-color: transparent;
-                  text-decoration: none;
-                }
+      }
       a:hover   {
                   color: red;
                   background-color: transparent;
