@@ -1,8 +1,8 @@
           a{
             font-size:2vw;
-      font-size: 2vh;
+            font-size: 2vh;
           }
-            body {
+          body {
             background-color: black;
           }
           
@@ -33,18 +33,18 @@
             font-size: 2.2vh;
           }
     
-      a {
-      color: green;
-      background-color: transparent;
-      text-decoration: none;
+          a {
+                    color: green;
+                    background-color: transparent;
+                    text-decoration: none;
       
-      }
-      a:hover   {
+          }
+          a:hover   {
                   color: red;
                   background-color: transparent;
                   text-decoration: underline;
                 }
-      a:active {
+          a:active {
                   color: rgb(0, 255, 13);
                   background-color: transparent;
                   text-decoration: underline;
